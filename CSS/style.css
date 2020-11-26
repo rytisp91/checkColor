@@ -3,7 +3,7 @@
     flex-wrap: wrap;
     width: 400px;
     border: black solid 1px;
-
+    background-color: #707070;
 }
 
 .smallCard {
@@ -11,4 +11,5 @@
     width: 46px;
     border: black solid 1px;
     margin: 1px;
+    background-color: white;
 }

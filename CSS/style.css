@@ -1,0 +1,14 @@
+#gameContainer {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    border: black solid 1px;
+
+}
+
+.smallCard {
+    height: 46px;
+    width: 46px;
+    border: black solid 1px;
+    margin: 1px;
+}
